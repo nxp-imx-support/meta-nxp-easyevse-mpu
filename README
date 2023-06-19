@@ -1,0 +1,24 @@
+i.MX EasyEVSE MPU Meta Layer
+======================
+
+This repository holds the needed additional configuration to prepare the i.MX Linux BSP and build the i.MX EasyEVSE Linux demo.
+
+Dependencies
+------------
+* meta-imx: https://github.com/nxp-imx/meta-imx/
+* meta-iot-cloud: https://github.com/intel-iot-devkit/meta-iot-cloud
+* nxp-easyevse-mpu: https://github.com/nxp-imx-support/nxp-easyevse-mpu  
+
+Supported boards
+----------------
+
+* NXP i.MX 93 EVK (imx93evk)
+* NXP i.MX 8M Nano EVK (imx8mnevk)
+  
+Releases
+--------
+
+Releases are tracked against the i.MX Linux software releases. Supported releases are listed below.
+
+* Langdale
+  * 6.1.1_1.0.0

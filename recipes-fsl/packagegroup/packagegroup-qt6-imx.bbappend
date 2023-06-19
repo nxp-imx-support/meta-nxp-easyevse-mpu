@@ -1,0 +1,2 @@
+QT6_IMAGE_INSTALL:imxpxp = " \
+    ${QT6_IMAGE_INSTALL_COMMON}"

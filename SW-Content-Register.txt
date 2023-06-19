@@ -1,0 +1,33 @@
+NXP Software Content Register
+
+Release: NXP EasyEVSE
+Version: 0.1.0
+Date: June 2023
+Outgoing License: LA_OPT_NXP_Software_License v46 June 2023  - Standard License in Section 2.2 applies applies
+License File: PROJECT_LICENSE
+
+--------------- THIS PACKAGE ---------------
+
+Package:                    NXP EasyEVSE Yocto Project Meta Layer
+Release branch:             langdale-6.1.1-1.0.0
+Outgoing License:           MIT
+License File:               meta-nxp-easyevse-mpu/COPYING.MIT
+Package Category:           Software build scripts
+Type of content:            Bitbake recipes, patches
+Description and comments:   Yocto Project meta layer used to integrate into the i.MX BSP
+Release Location:           https://github.com/nxp-imx-support/meta-nxp-easyevse-mpu
+Origin:                     NXP (MIT)
+
+---------- OTHER REQUIRED PACKAGES ---------
+
+Package:                     NXP EasyEVSE Linux demo application
+Version:                     0.1.0
+Outgoing License:            LA_OPT_NXP_Software_License v46 June 2023  - Standard License in Section 2.2 applies
+License File:                nxp-easyevse-mpu/LICENSE
+Package Category:            Demo application
+Type of Content:             Source code, images
+Description and comments:    i.MX EasyEVSE Linux demo programs source code and images
+Release Location:            https://github.com/nxp-imx-support/nxp-easyevse-mpu
+Origin:                      NXP (LA_OPT_NXP_Software_License, Apache 2.0, CC0-1.0)
+                             Microsoft (MIT)                     
+                             Font Awesome (CC-BY-4.0) https://fontawesome.com/icons
